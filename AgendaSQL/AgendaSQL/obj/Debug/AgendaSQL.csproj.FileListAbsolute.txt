@@ -1,0 +1,11 @@
+C:\Users\Davi.rsouza2\source\repos\AgendaSQL\AgendaSQL\bin\Debug\AgendaSQL.exe.config
+C:\Users\Davi.rsouza2\source\repos\AgendaSQL\AgendaSQL\bin\Debug\AgendaSQL.exe
+C:\Users\Davi.rsouza2\source\repos\AgendaSQL\AgendaSQL\bin\Debug\AgendaSQL.pdb
+C:\Users\Davi.rsouza2\source\repos\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.FrmAgenda.resources
+C:\Users\Davi.rsouza2\source\repos\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.Properties.Resources.resources
+C:\Users\Davi.rsouza2\source\repos\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.csproj.GenerateResource.cache
+C:\Users\Davi.rsouza2\source\repos\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.exe
+C:\Users\Davi.rsouza2\source\repos\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.pdb

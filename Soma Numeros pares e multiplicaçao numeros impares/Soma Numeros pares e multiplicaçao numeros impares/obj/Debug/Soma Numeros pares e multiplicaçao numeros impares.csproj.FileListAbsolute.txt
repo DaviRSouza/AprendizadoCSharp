@@ -1,0 +1,8 @@
+C:\Users\Davi.rsouza2\source\repos\Soma Numeros pares e multiplicaçao numeros impares\Soma Numeros pares e multiplicaçao numeros impares\bin\Debug\Soma Numeros pares e multiplicaçao numeros impares.exe.config
+C:\Users\Davi.rsouza2\source\repos\Soma Numeros pares e multiplicaçao numeros impares\Soma Numeros pares e multiplicaçao numeros impares\bin\Debug\Soma Numeros pares e multiplicaçao numeros impares.exe
+C:\Users\Davi.rsouza2\source\repos\Soma Numeros pares e multiplicaçao numeros impares\Soma Numeros pares e multiplicaçao numeros impares\bin\Debug\Soma Numeros pares e multiplicaçao numeros impares.pdb
+C:\Users\Davi.rsouza2\source\repos\Soma Numeros pares e multiplicaçao numeros impares\Soma Numeros pares e multiplicaçao numeros impares\obj\Debug\Soma Numeros pares e multiplicaçao numeros impares.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\Soma Numeros pares e multiplicaçao numeros impares\Soma Numeros pares e multiplicaçao numeros impares\obj\Debug\Soma Numeros pares e multiplicaçao numeros impares.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\Soma Numeros pares e multiplicaçao numeros impares\Soma Numeros pares e multiplicaçao numeros impares\obj\Debug\Soma Numeros pares e multiplicaçao numeros impares.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\Soma Numeros pares e multiplicaçao numeros impares\Soma Numeros pares e multiplicaçao numeros impares\obj\Debug\Soma Numeros pares e multiplicaçao numeros impares.exe
+C:\Users\Davi.rsouza2\source\repos\Soma Numeros pares e multiplicaçao numeros impares\Soma Numeros pares e multiplicaçao numeros impares\obj\Debug\Soma Numeros pares e multiplicaçao numeros impares.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio idades e sexo", "exercicio idades e sexo\exercicio idades e sexo.csproj", "{B8A19F29-9575-4D07-B6A3-36F50BFF4FA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8A19F29-9575-4D07-B6A3-36F50BFF4FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A19F29-9575-4D07-B6A3-36F50BFF4FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A19F29-9575-4D07-B6A3-36F50BFF4FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A19F29-9575-4D07-B6A3-36F50BFF4FA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE4A27F1-BE50-45B2-B993-024E581CFBC6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Davi.rsouza2\source\repos\Primeiro projeto\Primeiro projeto\bin\Debug\Primeiro projeto.exe.config
+C:\Users\Davi.rsouza2\source\repos\Primeiro projeto\Primeiro projeto\bin\Debug\Primeiro projeto.exe
+C:\Users\Davi.rsouza2\source\repos\Primeiro projeto\Primeiro projeto\bin\Debug\Primeiro projeto.pdb
+C:\Users\Davi.rsouza2\source\repos\Primeiro projeto\Primeiro projeto\obj\Debug\Primeiro projeto.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\Primeiro projeto\Primeiro projeto\obj\Debug\Primeiro projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\Primeiro projeto\Primeiro projeto\obj\Debug\Primeiro_projeto.FrmPrincipal.resources
+C:\Users\Davi.rsouza2\source\repos\Primeiro projeto\Primeiro projeto\obj\Debug\Primeiro_projeto.Properties.Resources.resources
+C:\Users\Davi.rsouza2\source\repos\Primeiro projeto\Primeiro projeto\obj\Debug\Primeiro projeto.csproj.GenerateResource.cache
+C:\Users\Davi.rsouza2\source\repos\Primeiro projeto\Primeiro projeto\obj\Debug\Primeiro projeto.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\Primeiro projeto\Primeiro projeto\obj\Debug\Primeiro projeto.exe
+C:\Users\Davi.rsouza2\source\repos\Primeiro projeto\Primeiro projeto\obj\Debug\Primeiro projeto.pdb

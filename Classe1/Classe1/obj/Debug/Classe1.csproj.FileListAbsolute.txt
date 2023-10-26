@@ -1,0 +1,11 @@
+C:\Users\Davi.rsouza2\source\repos\Classe1\Classe1\bin\Debug\Classe1.exe.config
+C:\Users\Davi.rsouza2\source\repos\Classe1\Classe1\bin\Debug\Classe1.exe
+C:\Users\Davi.rsouza2\source\repos\Classe1\Classe1\bin\Debug\Classe1.pdb
+C:\Users\Davi.rsouza2\source\repos\Classe1\Classe1\obj\Debug\Classe1.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\Classe1\Classe1\obj\Debug\Classe1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\Classe1\Classe1\obj\Debug\Classe1.frmClasse1.resources
+C:\Users\Davi.rsouza2\source\repos\Classe1\Classe1\obj\Debug\Classe1.Properties.Resources.resources
+C:\Users\Davi.rsouza2\source\repos\Classe1\Classe1\obj\Debug\Classe1.csproj.GenerateResource.cache
+C:\Users\Davi.rsouza2\source\repos\Classe1\Classe1\obj\Debug\Classe1.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\Classe1\Classe1\obj\Debug\Classe1.exe
+C:\Users\Davi.rsouza2\source\repos\Classe1\Classe1\obj\Debug\Classe1.pdb

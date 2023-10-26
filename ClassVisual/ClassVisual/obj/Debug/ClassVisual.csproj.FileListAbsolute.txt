@@ -1,0 +1,11 @@
+C:\Users\Davi.rsouza2\source\repos\ClassVisual\ClassVisual\bin\Debug\ClassVisual.exe.config
+C:\Users\Davi.rsouza2\source\repos\ClassVisual\ClassVisual\bin\Debug\ClassVisual.exe
+C:\Users\Davi.rsouza2\source\repos\ClassVisual\ClassVisual\bin\Debug\ClassVisual.pdb
+C:\Users\Davi.rsouza2\source\repos\ClassVisual\ClassVisual\obj\Debug\ClassVisual.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\ClassVisual\ClassVisual\obj\Debug\ClassVisual.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\ClassVisual\ClassVisual\obj\Debug\ClassVisual.frmClassVisual.resources
+C:\Users\Davi.rsouza2\source\repos\ClassVisual\ClassVisual\obj\Debug\ClassVisual.Properties.Resources.resources
+C:\Users\Davi.rsouza2\source\repos\ClassVisual\ClassVisual\obj\Debug\ClassVisual.csproj.GenerateResource.cache
+C:\Users\Davi.rsouza2\source\repos\ClassVisual\ClassVisual\obj\Debug\ClassVisual.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\ClassVisual\ClassVisual\obj\Debug\ClassVisual.exe
+C:\Users\Davi.rsouza2\source\repos\ClassVisual\ClassVisual\obj\Debug\ClassVisual.pdb

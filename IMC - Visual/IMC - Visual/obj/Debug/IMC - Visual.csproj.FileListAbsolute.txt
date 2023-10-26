@@ -1,0 +1,11 @@
+C:\Users\Davi.rsouza2\source\repos\IMC - Visual\IMC - Visual\bin\Debug\IMC - Visual.exe.config
+C:\Users\Davi.rsouza2\source\repos\IMC - Visual\IMC - Visual\bin\Debug\IMC - Visual.exe
+C:\Users\Davi.rsouza2\source\repos\IMC - Visual\IMC - Visual\bin\Debug\IMC - Visual.pdb
+C:\Users\Davi.rsouza2\source\repos\IMC - Visual\IMC - Visual\obj\Debug\IMC - Visual.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\IMC - Visual\IMC - Visual\obj\Debug\IMC - Visual.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\IMC - Visual\IMC - Visual\obj\Debug\IMC___Visual.DescubraIMC.resources
+C:\Users\Davi.rsouza2\source\repos\IMC - Visual\IMC - Visual\obj\Debug\IMC___Visual.Properties.Resources.resources
+C:\Users\Davi.rsouza2\source\repos\IMC - Visual\IMC - Visual\obj\Debug\IMC - Visual.csproj.GenerateResource.cache
+C:\Users\Davi.rsouza2\source\repos\IMC - Visual\IMC - Visual\obj\Debug\IMC - Visual.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\IMC - Visual\IMC - Visual\obj\Debug\IMC - Visual.exe
+C:\Users\Davi.rsouza2\source\repos\IMC - Visual\IMC - Visual\obj\Debug\IMC - Visual.pdb

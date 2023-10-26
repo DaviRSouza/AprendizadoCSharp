@@ -1,0 +1,8 @@
+C:\Users\Davi.rsouza2\source\repos\Soma de 1 a 200\Soma de 1 a 200\bin\Debug\Soma de 1 a 200.exe.config
+C:\Users\Davi.rsouza2\source\repos\Soma de 1 a 200\Soma de 1 a 200\bin\Debug\Soma de 1 a 200.exe
+C:\Users\Davi.rsouza2\source\repos\Soma de 1 a 200\Soma de 1 a 200\bin\Debug\Soma de 1 a 200.pdb
+C:\Users\Davi.rsouza2\source\repos\Soma de 1 a 200\Soma de 1 a 200\obj\Debug\Soma de 1 a 200.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\Soma de 1 a 200\Soma de 1 a 200\obj\Debug\Soma de 1 a 200.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\Soma de 1 a 200\Soma de 1 a 200\obj\Debug\Soma de 1 a 200.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\Soma de 1 a 200\Soma de 1 a 200\obj\Debug\Soma de 1 a 200.exe
+C:\Users\Davi.rsouza2\source\repos\Soma de 1 a 200\Soma de 1 a 200\obj\Debug\Soma de 1 a 200.pdb

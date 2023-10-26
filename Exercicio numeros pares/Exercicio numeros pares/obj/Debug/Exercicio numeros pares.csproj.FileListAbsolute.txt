@@ -1,0 +1,8 @@
+C:\Users\Davi.rsouza2\source\repos\Exercicio numeros pares\Exercicio numeros pares\bin\Debug\Exercicio numeros pares.exe.config
+C:\Users\Davi.rsouza2\source\repos\Exercicio numeros pares\Exercicio numeros pares\bin\Debug\Exercicio numeros pares.exe
+C:\Users\Davi.rsouza2\source\repos\Exercicio numeros pares\Exercicio numeros pares\bin\Debug\Exercicio numeros pares.pdb
+C:\Users\Davi.rsouza2\source\repos\Exercicio numeros pares\Exercicio numeros pares\obj\Debug\Exercicio numeros pares.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\Exercicio numeros pares\Exercicio numeros pares\obj\Debug\Exercicio numeros pares.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\Exercicio numeros pares\Exercicio numeros pares\obj\Debug\Exercicio numeros pares.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\Exercicio numeros pares\Exercicio numeros pares\obj\Debug\Exercicio numeros pares.exe
+C:\Users\Davi.rsouza2\source\repos\Exercicio numeros pares\Exercicio numeros pares\obj\Debug\Exercicio numeros pares.pdb

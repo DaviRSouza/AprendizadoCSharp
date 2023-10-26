@@ -1,0 +1,11 @@
+C:\Users\Davi.rsouza2\source\repos\Maior Menor de 6\Maior Menor de 6\bin\Debug\Maior Menor de 6.exe.config
+C:\Users\Davi.rsouza2\source\repos\Maior Menor de 6\Maior Menor de 6\bin\Debug\Maior Menor de 6.exe
+C:\Users\Davi.rsouza2\source\repos\Maior Menor de 6\Maior Menor de 6\bin\Debug\Maior Menor de 6.pdb
+C:\Users\Davi.rsouza2\source\repos\Maior Menor de 6\Maior Menor de 6\obj\Debug\Maior Menor de 6.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\Maior Menor de 6\Maior Menor de 6\obj\Debug\Maior Menor de 6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\Maior Menor de 6\Maior Menor de 6\obj\Debug\Maior_Menor_de_6.FrmMaiorDe6.resources
+C:\Users\Davi.rsouza2\source\repos\Maior Menor de 6\Maior Menor de 6\obj\Debug\Maior_Menor_de_6.Properties.Resources.resources
+C:\Users\Davi.rsouza2\source\repos\Maior Menor de 6\Maior Menor de 6\obj\Debug\Maior Menor de 6.csproj.GenerateResource.cache
+C:\Users\Davi.rsouza2\source\repos\Maior Menor de 6\Maior Menor de 6\obj\Debug\Maior Menor de 6.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\Maior Menor de 6\Maior Menor de 6\obj\Debug\Maior Menor de 6.exe
+C:\Users\Davi.rsouza2\source\repos\Maior Menor de 6\Maior Menor de 6\obj\Debug\Maior Menor de 6.pdb

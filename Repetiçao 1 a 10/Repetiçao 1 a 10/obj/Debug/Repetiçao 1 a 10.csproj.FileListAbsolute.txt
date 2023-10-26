@@ -1,0 +1,8 @@
+C:\Users\Davi.rsouza2\source\repos\Repetiçao 1 a 10\Repetiçao 1 a 10\bin\Debug\Repetiçao 1 a 10.exe.config
+C:\Users\Davi.rsouza2\source\repos\Repetiçao 1 a 10\Repetiçao 1 a 10\bin\Debug\Repetiçao 1 a 10.exe
+C:\Users\Davi.rsouza2\source\repos\Repetiçao 1 a 10\Repetiçao 1 a 10\bin\Debug\Repetiçao 1 a 10.pdb
+C:\Users\Davi.rsouza2\source\repos\Repetiçao 1 a 10\Repetiçao 1 a 10\obj\Debug\Repetiçao 1 a 10.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\Repetiçao 1 a 10\Repetiçao 1 a 10\obj\Debug\Repetiçao 1 a 10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\Repetiçao 1 a 10\Repetiçao 1 a 10\obj\Debug\Repetiçao 1 a 10.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\Repetiçao 1 a 10\Repetiçao 1 a 10\obj\Debug\Repetiçao 1 a 10.exe
+C:\Users\Davi.rsouza2\source\repos\Repetiçao 1 a 10\Repetiçao 1 a 10\obj\Debug\Repetiçao 1 a 10.pdb

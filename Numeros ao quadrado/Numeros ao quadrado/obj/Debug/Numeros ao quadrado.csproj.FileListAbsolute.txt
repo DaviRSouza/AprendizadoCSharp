@@ -1,0 +1,8 @@
+C:\Users\Davi.rsouza2\source\repos\Numeros ao quadrado\Numeros ao quadrado\bin\Debug\Numeros ao quadrado.exe.config
+C:\Users\Davi.rsouza2\source\repos\Numeros ao quadrado\Numeros ao quadrado\bin\Debug\Numeros ao quadrado.exe
+C:\Users\Davi.rsouza2\source\repos\Numeros ao quadrado\Numeros ao quadrado\bin\Debug\Numeros ao quadrado.pdb
+C:\Users\Davi.rsouza2\source\repos\Numeros ao quadrado\Numeros ao quadrado\obj\Debug\Numeros ao quadrado.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\Numeros ao quadrado\Numeros ao quadrado\obj\Debug\Numeros ao quadrado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\Numeros ao quadrado\Numeros ao quadrado\obj\Debug\Numeros ao quadrado.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\Numeros ao quadrado\Numeros ao quadrado\obj\Debug\Numeros ao quadrado.exe
+C:\Users\Davi.rsouza2\source\repos\Numeros ao quadrado\Numeros ao quadrado\obj\Debug\Numeros ao quadrado.pdb

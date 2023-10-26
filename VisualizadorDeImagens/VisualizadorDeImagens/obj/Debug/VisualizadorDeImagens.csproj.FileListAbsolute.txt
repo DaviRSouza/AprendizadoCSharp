@@ -1,0 +1,11 @@
+C:\Users\Davi.rsouza2\source\repos\VisualizadorDeImagens\VisualizadorDeImagens\bin\Debug\VisualizadorDeImagens.exe.config
+C:\Users\Davi.rsouza2\source\repos\VisualizadorDeImagens\VisualizadorDeImagens\bin\Debug\VisualizadorDeImagens.exe
+C:\Users\Davi.rsouza2\source\repos\VisualizadorDeImagens\VisualizadorDeImagens\bin\Debug\VisualizadorDeImagens.pdb
+C:\Users\Davi.rsouza2\source\repos\VisualizadorDeImagens\VisualizadorDeImagens\obj\Debug\VisualizadorDeImagens.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\VisualizadorDeImagens\VisualizadorDeImagens\obj\Debug\VisualizadorDeImagens.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\VisualizadorDeImagens\VisualizadorDeImagens\obj\Debug\VisualizadorDeImagens.FrmImagem.resources
+C:\Users\Davi.rsouza2\source\repos\VisualizadorDeImagens\VisualizadorDeImagens\obj\Debug\VisualizadorDeImagens.Properties.Resources.resources
+C:\Users\Davi.rsouza2\source\repos\VisualizadorDeImagens\VisualizadorDeImagens\obj\Debug\VisualizadorDeImagens.csproj.GenerateResource.cache
+C:\Users\Davi.rsouza2\source\repos\VisualizadorDeImagens\VisualizadorDeImagens\obj\Debug\VisualizadorDeImagens.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\VisualizadorDeImagens\VisualizadorDeImagens\obj\Debug\VisualizadorDeImagens.exe
+C:\Users\Davi.rsouza2\source\repos\VisualizadorDeImagens\VisualizadorDeImagens\obj\Debug\VisualizadorDeImagens.pdb

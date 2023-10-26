@@ -1,0 +1,8 @@
+C:\Users\Davi.rsouza2\source\repos\Resto Igual a 5\Resto Igual a 5\bin\Debug\Resto Igual a 5.exe.config
+C:\Users\Davi.rsouza2\source\repos\Resto Igual a 5\Resto Igual a 5\bin\Debug\Resto Igual a 5.exe
+C:\Users\Davi.rsouza2\source\repos\Resto Igual a 5\Resto Igual a 5\bin\Debug\Resto Igual a 5.pdb
+C:\Users\Davi.rsouza2\source\repos\Resto Igual a 5\Resto Igual a 5\obj\Debug\Resto Igual a 5.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\Resto Igual a 5\Resto Igual a 5\obj\Debug\Resto Igual a 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\Resto Igual a 5\Resto Igual a 5\obj\Debug\Resto Igual a 5.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\Resto Igual a 5\Resto Igual a 5\obj\Debug\Resto Igual a 5.exe
+C:\Users\Davi.rsouza2\source\repos\Resto Igual a 5\Resto Igual a 5\obj\Debug\Resto Igual a 5.pdb

@@ -1,0 +1,11 @@
+C:\Users\Davi.rsouza2\source\repos\ordenar nomes\ordenar nomes\bin\Debug\ordenar nomes.exe.config
+C:\Users\Davi.rsouza2\source\repos\ordenar nomes\ordenar nomes\bin\Debug\ordenar nomes.exe
+C:\Users\Davi.rsouza2\source\repos\ordenar nomes\ordenar nomes\bin\Debug\ordenar nomes.pdb
+C:\Users\Davi.rsouza2\source\repos\ordenar nomes\ordenar nomes\obj\Debug\ordenar nomes.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\ordenar nomes\ordenar nomes\obj\Debug\ordenar nomes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\ordenar nomes\ordenar nomes\obj\Debug\ordenar_nomes.frmOrdenarNomes.resources
+C:\Users\Davi.rsouza2\source\repos\ordenar nomes\ordenar nomes\obj\Debug\ordenar_nomes.Properties.Resources.resources
+C:\Users\Davi.rsouza2\source\repos\ordenar nomes\ordenar nomes\obj\Debug\ordenar nomes.csproj.GenerateResource.cache
+C:\Users\Davi.rsouza2\source\repos\ordenar nomes\ordenar nomes\obj\Debug\ordenar nomes.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\ordenar nomes\ordenar nomes\obj\Debug\ordenar nomes.exe
+C:\Users\Davi.rsouza2\source\repos\ordenar nomes\ordenar nomes\obj\Debug\ordenar nomes.pdb

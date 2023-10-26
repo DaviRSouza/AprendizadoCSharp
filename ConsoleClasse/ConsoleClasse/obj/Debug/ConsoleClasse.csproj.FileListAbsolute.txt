@@ -1,0 +1,8 @@
+C:\Users\Davi.rsouza2\source\repos\ConsoleClasse\ConsoleClasse\obj\Debug\ConsoleClasse.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\ConsoleClasse\ConsoleClasse\obj\Debug\ConsoleClasse.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\ConsoleClasse\ConsoleClasse\obj\Debug\ConsoleClasse.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\ConsoleClasse\ConsoleClasse\bin\Debug\ConsoleClasse.exe.config
+C:\Users\Davi.rsouza2\source\repos\ConsoleClasse\ConsoleClasse\bin\Debug\ConsoleClasse.exe
+C:\Users\Davi.rsouza2\source\repos\ConsoleClasse\ConsoleClasse\bin\Debug\ConsoleClasse.pdb
+C:\Users\Davi.rsouza2\source\repos\ConsoleClasse\ConsoleClasse\obj\Debug\ConsoleClasse.exe
+C:\Users\Davi.rsouza2\source\repos\ConsoleClasse\ConsoleClasse\obj\Debug\ConsoleClasse.pdb

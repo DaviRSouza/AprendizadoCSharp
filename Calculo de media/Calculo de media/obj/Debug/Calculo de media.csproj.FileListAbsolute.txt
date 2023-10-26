@@ -1,0 +1,11 @@
+C:\Users\Davi.rsouza2\source\repos\Calculo de media\Calculo de media\bin\Debug\Calculo de media.exe.config
+C:\Users\Davi.rsouza2\source\repos\Calculo de media\Calculo de media\bin\Debug\Calculo de media.exe
+C:\Users\Davi.rsouza2\source\repos\Calculo de media\Calculo de media\bin\Debug\Calculo de media.pdb
+C:\Users\Davi.rsouza2\source\repos\Calculo de media\Calculo de media\obj\Debug\Calculo de media.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\Calculo de media\Calculo de media\obj\Debug\Calculo de media.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\Calculo de media\Calculo de media\obj\Debug\Calculo_de_media.FrmCalcMedia.resources
+C:\Users\Davi.rsouza2\source\repos\Calculo de media\Calculo de media\obj\Debug\Calculo_de_media.Properties.Resources.resources
+C:\Users\Davi.rsouza2\source\repos\Calculo de media\Calculo de media\obj\Debug\Calculo de media.csproj.GenerateResource.cache
+C:\Users\Davi.rsouza2\source\repos\Calculo de media\Calculo de media\obj\Debug\Calculo de media.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\Calculo de media\Calculo de media\obj\Debug\Calculo de media.exe
+C:\Users\Davi.rsouza2\source\repos\Calculo de media\Calculo de media\obj\Debug\Calculo de media.pdb

@@ -1,0 +1,8 @@
+C:\Users\Davi.rsouza2\source\repos\exercicio numero primo\exercicio numero primo\obj\Debug\exercicio numero primo.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\exercicio numero primo\exercicio numero primo\obj\Debug\exercicio numero primo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\exercicio numero primo\exercicio numero primo\obj\Debug\exercicio numero primo.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\exercicio numero primo\exercicio numero primo\bin\Debug\exercicio numero primo.exe.config
+C:\Users\Davi.rsouza2\source\repos\exercicio numero primo\exercicio numero primo\bin\Debug\exercicio numero primo.exe
+C:\Users\Davi.rsouza2\source\repos\exercicio numero primo\exercicio numero primo\bin\Debug\exercicio numero primo.pdb
+C:\Users\Davi.rsouza2\source\repos\exercicio numero primo\exercicio numero primo\obj\Debug\exercicio numero primo.exe
+C:\Users\Davi.rsouza2\source\repos\exercicio numero primo\exercicio numero primo\obj\Debug\exercicio numero primo.pdb

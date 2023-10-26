@@ -1,0 +1,8 @@
+C:\Users\Davi.rsouza2\source\repos\aula do plano cartesiano\aula do plano cartesiano\bin\Debug\aula do plano cartesiano.exe.config
+C:\Users\Davi.rsouza2\source\repos\aula do plano cartesiano\aula do plano cartesiano\bin\Debug\aula do plano cartesiano.exe
+C:\Users\Davi.rsouza2\source\repos\aula do plano cartesiano\aula do plano cartesiano\bin\Debug\aula do plano cartesiano.pdb
+C:\Users\Davi.rsouza2\source\repos\aula do plano cartesiano\aula do plano cartesiano\obj\Debug\aula do plano cartesiano.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\aula do plano cartesiano\aula do plano cartesiano\obj\Debug\aula do plano cartesiano.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\aula do plano cartesiano\aula do plano cartesiano\obj\Debug\aula do plano cartesiano.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\aula do plano cartesiano\aula do plano cartesiano\obj\Debug\aula do plano cartesiano.exe
+C:\Users\Davi.rsouza2\source\repos\aula do plano cartesiano\aula do plano cartesiano\obj\Debug\aula do plano cartesiano.pdb

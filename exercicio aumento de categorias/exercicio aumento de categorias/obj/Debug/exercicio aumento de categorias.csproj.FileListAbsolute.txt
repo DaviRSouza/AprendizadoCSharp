@@ -1,0 +1,8 @@
+C:\Users\Davi.rsouza2\source\repos\exercicio aumento de categorias\exercicio aumento de categorias\bin\Debug\exercicio aumento de categorias.exe.config
+C:\Users\Davi.rsouza2\source\repos\exercicio aumento de categorias\exercicio aumento de categorias\bin\Debug\exercicio aumento de categorias.exe
+C:\Users\Davi.rsouza2\source\repos\exercicio aumento de categorias\exercicio aumento de categorias\bin\Debug\exercicio aumento de categorias.pdb
+C:\Users\Davi.rsouza2\source\repos\exercicio aumento de categorias\exercicio aumento de categorias\obj\Debug\exercicio aumento de categorias.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\exercicio aumento de categorias\exercicio aumento de categorias\obj\Debug\exercicio aumento de categorias.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\exercicio aumento de categorias\exercicio aumento de categorias\obj\Debug\exercicio aumento de categorias.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\exercicio aumento de categorias\exercicio aumento de categorias\obj\Debug\exercicio aumento de categorias.exe
+C:\Users\Davi.rsouza2\source\repos\exercicio aumento de categorias\exercicio aumento de categorias\obj\Debug\exercicio aumento de categorias.pdb

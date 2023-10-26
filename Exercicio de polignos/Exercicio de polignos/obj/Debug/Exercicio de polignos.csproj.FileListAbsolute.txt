@@ -1,0 +1,8 @@
+C:\Users\Davi.rsouza2\source\repos\Exercicio de polignos\Exercicio de polignos\bin\Debug\Exercicio de polignos.exe.config
+C:\Users\Davi.rsouza2\source\repos\Exercicio de polignos\Exercicio de polignos\bin\Debug\Exercicio de polignos.exe
+C:\Users\Davi.rsouza2\source\repos\Exercicio de polignos\Exercicio de polignos\bin\Debug\Exercicio de polignos.pdb
+C:\Users\Davi.rsouza2\source\repos\Exercicio de polignos\Exercicio de polignos\obj\Debug\Exercicio de polignos.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\Exercicio de polignos\Exercicio de polignos\obj\Debug\Exercicio de polignos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\Exercicio de polignos\Exercicio de polignos\obj\Debug\Exercicio de polignos.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\Exercicio de polignos\Exercicio de polignos\obj\Debug\Exercicio de polignos.exe
+C:\Users\Davi.rsouza2\source\repos\Exercicio de polignos\Exercicio de polignos\obj\Debug\Exercicio de polignos.pdb

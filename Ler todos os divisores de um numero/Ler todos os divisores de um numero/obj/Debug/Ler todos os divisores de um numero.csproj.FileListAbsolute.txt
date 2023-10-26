@@ -1,0 +1,8 @@
+C:\Users\Davi.rsouza2\source\repos\Ler todos os divisores de um numero\Ler todos os divisores de um numero\bin\Debug\Ler todos os divisores de um numero.exe.config
+C:\Users\Davi.rsouza2\source\repos\Ler todos os divisores de um numero\Ler todos os divisores de um numero\bin\Debug\Ler todos os divisores de um numero.exe
+C:\Users\Davi.rsouza2\source\repos\Ler todos os divisores de um numero\Ler todos os divisores de um numero\bin\Debug\Ler todos os divisores de um numero.pdb
+C:\Users\Davi.rsouza2\source\repos\Ler todos os divisores de um numero\Ler todos os divisores de um numero\obj\Debug\Ler todos os divisores de um numero.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\Ler todos os divisores de um numero\Ler todos os divisores de um numero\obj\Debug\Ler todos os divisores de um numero.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\Ler todos os divisores de um numero\Ler todos os divisores de um numero\obj\Debug\Ler todos os divisores de um numero.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\Ler todos os divisores de um numero\Ler todos os divisores de um numero\obj\Debug\Ler todos os divisores de um numero.exe
+C:\Users\Davi.rsouza2\source\repos\Ler todos os divisores de um numero\Ler todos os divisores de um numero\obj\Debug\Ler todos os divisores de um numero.pdb

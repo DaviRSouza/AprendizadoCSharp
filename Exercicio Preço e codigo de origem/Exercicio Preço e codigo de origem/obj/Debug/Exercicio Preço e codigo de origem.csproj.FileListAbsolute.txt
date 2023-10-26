@@ -1,0 +1,8 @@
+C:\Users\Davi.rsouza2\source\repos\Exercicio Preço e codigo de origem\Exercicio Preço e codigo de origem\obj\Debug\Exercicio Preço e codigo de origem.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\Exercicio Preço e codigo de origem\Exercicio Preço e codigo de origem\obj\Debug\Exercicio Preço e codigo de origem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\Exercicio Preço e codigo de origem\Exercicio Preço e codigo de origem\obj\Debug\Exercicio Preço e codigo de origem.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\Exercicio Preço e codigo de origem\Exercicio Preço e codigo de origem\bin\Debug\Exercicio Preço e codigo de origem.exe.config
+C:\Users\Davi.rsouza2\source\repos\Exercicio Preço e codigo de origem\Exercicio Preço e codigo de origem\bin\Debug\Exercicio Preço e codigo de origem.exe
+C:\Users\Davi.rsouza2\source\repos\Exercicio Preço e codigo de origem\Exercicio Preço e codigo de origem\bin\Debug\Exercicio Preço e codigo de origem.pdb
+C:\Users\Davi.rsouza2\source\repos\Exercicio Preço e codigo de origem\Exercicio Preço e codigo de origem\obj\Debug\Exercicio Preço e codigo de origem.exe
+C:\Users\Davi.rsouza2\source\repos\Exercicio Preço e codigo de origem\Exercicio Preço e codigo de origem\obj\Debug\Exercicio Preço e codigo de origem.pdb

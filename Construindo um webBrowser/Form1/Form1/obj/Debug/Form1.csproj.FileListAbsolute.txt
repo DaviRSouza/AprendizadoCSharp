@@ -1,0 +1,12 @@
+C:\Users\Davi.rsouza2\source\repos\Form1\Form1\bin\Debug\Form1.exe.config
+C:\Users\Davi.rsouza2\source\repos\Form1\Form1\bin\Debug\Form1.exe
+C:\Users\Davi.rsouza2\source\repos\Form1\Form1\bin\Debug\Form1.pdb
+C:\Users\Davi.rsouza2\source\repos\Form1\Form1\obj\Debug\Form1.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\Form1\Form1\obj\Debug\Form1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\Form1\Form1\obj\Debug\Form1.frmPrincipal.resources
+C:\Users\Davi.rsouza2\source\repos\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\Davi.rsouza2\source\repos\Form1\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\Davi.rsouza2\source\repos\Form1\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\Form1\Form1\obj\Debug\Form1.exe
+C:\Users\Davi.rsouza2\source\repos\Form1\Form1\obj\Debug\Form1.pdb
+C:\Users\Davi.rsouza2\source\repos\Form1\Form1\obj\Debug\Form1.frmPaginaInicial.resources

@@ -1,0 +1,11 @@
+C:\Users\Davi.rsouza2\source\repos\Relogios\Relogios\bin\Debug\Relogios.exe.config
+C:\Users\Davi.rsouza2\source\repos\Relogios\Relogios\bin\Debug\Relogios.exe
+C:\Users\Davi.rsouza2\source\repos\Relogios\Relogios\bin\Debug\Relogios.pdb
+C:\Users\Davi.rsouza2\source\repos\Relogios\Relogios\obj\Debug\Relogios.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\Relogios\Relogios\obj\Debug\Relogios.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\Relogios\Relogios\obj\Debug\Relogios.frmRelogios.resources
+C:\Users\Davi.rsouza2\source\repos\Relogios\Relogios\obj\Debug\Relogios.Properties.Resources.resources
+C:\Users\Davi.rsouza2\source\repos\Relogios\Relogios\obj\Debug\Relogios.csproj.GenerateResource.cache
+C:\Users\Davi.rsouza2\source\repos\Relogios\Relogios\obj\Debug\Relogios.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\Relogios\Relogios\obj\Debug\Relogios.exe
+C:\Users\Davi.rsouza2\source\repos\Relogios\Relogios\obj\Debug\Relogios.pdb

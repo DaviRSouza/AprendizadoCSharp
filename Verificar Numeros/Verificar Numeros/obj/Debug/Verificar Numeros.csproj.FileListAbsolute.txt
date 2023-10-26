@@ -1,0 +1,11 @@
+C:\Users\Davi.rsouza2\source\repos\Verificar Numeros\Verificar Numeros\bin\Debug\Verificar Numeros.exe.config
+C:\Users\Davi.rsouza2\source\repos\Verificar Numeros\Verificar Numeros\bin\Debug\Verificar Numeros.exe
+C:\Users\Davi.rsouza2\source\repos\Verificar Numeros\Verificar Numeros\bin\Debug\Verificar Numeros.pdb
+C:\Users\Davi.rsouza2\source\repos\Verificar Numeros\Verificar Numeros\obj\Debug\Verificar Numeros.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\Verificar Numeros\Verificar Numeros\obj\Debug\Verificar Numeros.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\Verificar Numeros\Verificar Numeros\obj\Debug\Verificar_Numeros.FrmVerifica.resources
+C:\Users\Davi.rsouza2\source\repos\Verificar Numeros\Verificar Numeros\obj\Debug\Verificar_Numeros.Properties.Resources.resources
+C:\Users\Davi.rsouza2\source\repos\Verificar Numeros\Verificar Numeros\obj\Debug\Verificar Numeros.csproj.GenerateResource.cache
+C:\Users\Davi.rsouza2\source\repos\Verificar Numeros\Verificar Numeros\obj\Debug\Verificar Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\Verificar Numeros\Verificar Numeros\obj\Debug\Verificar Numeros.exe
+C:\Users\Davi.rsouza2\source\repos\Verificar Numeros\Verificar Numeros\obj\Debug\Verificar Numeros.pdb

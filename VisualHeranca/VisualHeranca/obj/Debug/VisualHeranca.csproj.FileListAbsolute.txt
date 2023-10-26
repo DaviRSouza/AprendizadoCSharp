@@ -1,0 +1,11 @@
+C:\Users\Davi.rsouza2\source\repos\VisualHeranca\VisualHeranca\bin\Debug\VisualHeranca.exe.config
+C:\Users\Davi.rsouza2\source\repos\VisualHeranca\VisualHeranca\bin\Debug\VisualHeranca.exe
+C:\Users\Davi.rsouza2\source\repos\VisualHeranca\VisualHeranca\bin\Debug\VisualHeranca.pdb
+C:\Users\Davi.rsouza2\source\repos\VisualHeranca\VisualHeranca\obj\Debug\VisualHeranca.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\VisualHeranca\VisualHeranca\obj\Debug\VisualHeranca.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\VisualHeranca\VisualHeranca\obj\Debug\VisualHeranca.frmHeranca.resources
+C:\Users\Davi.rsouza2\source\repos\VisualHeranca\VisualHeranca\obj\Debug\VisualHeranca.Properties.Resources.resources
+C:\Users\Davi.rsouza2\source\repos\VisualHeranca\VisualHeranca\obj\Debug\VisualHeranca.csproj.GenerateResource.cache
+C:\Users\Davi.rsouza2\source\repos\VisualHeranca\VisualHeranca\obj\Debug\VisualHeranca.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\VisualHeranca\VisualHeranca\obj\Debug\VisualHeranca.exe
+C:\Users\Davi.rsouza2\source\repos\VisualHeranca\VisualHeranca\obj\Debug\VisualHeranca.pdb

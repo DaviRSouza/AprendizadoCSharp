@@ -1,0 +1,30 @@
+C:\Users\Davi.rsouza2\source\repos\SIstemas de menus\SIstemas de menus\bin\Debug\SIstemas de menus.exe.config
+C:\Users\Davi.rsouza2\source\repos\SIstemas de menus\SIstemas de menus\bin\Debug\SIstemas de menus.exe
+C:\Users\Davi.rsouza2\source\repos\SIstemas de menus\SIstemas de menus\bin\Debug\SIstemas de menus.pdb
+C:\Users\Davi.rsouza2\source\repos\SIstemas de menus\SIstemas de menus\obj\Debug\SIstemas de menus.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\SIstemas de menus\SIstemas de menus\obj\Debug\SIstemas de menus.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\SIstemas de menus\SIstemas de menus\obj\Debug\SIstemas_de_menus.frmPrincipal.resources
+C:\Users\Davi.rsouza2\source\repos\SIstemas de menus\SIstemas de menus\obj\Debug\SIstemas_de_menus.Properties.Resources.resources
+C:\Users\Davi.rsouza2\source\repos\SIstemas de menus\SIstemas de menus\obj\Debug\SIstemas de menus.csproj.GenerateResource.cache
+C:\Users\Davi.rsouza2\source\repos\SIstemas de menus\SIstemas de menus\obj\Debug\SIstemas de menus.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\SIstemas de menus\SIstemas de menus\obj\Debug\SIstemas de menus.exe
+C:\Users\Davi.rsouza2\source\repos\SIstemas de menus\SIstemas de menus\obj\Debug\SIstemas de menus.pdb
+C:\Users\Davi.rsouza2\source\repos\SIstemas de menus\SIstemas de menus\bin\Debug\Calculo de media.exe
+C:\Users\Davi.rsouza2\source\repos\SIstemas de menus\SIstemas de menus\bin\Debug\Lista de Nomes.exe
+C:\Users\Davi.rsouza2\source\repos\SIstemas de menus\SIstemas de menus\bin\Debug\MoviTeclas.exe
+C:\Users\Davi.rsouza2\source\repos\SIstemas de menus\SIstemas de menus\bin\Debug\ordenar nomes.exe
+C:\Users\Davi.rsouza2\source\repos\SIstemas de menus\SIstemas de menus\bin\Debug\Relogios.exe
+C:\Users\Davi.rsouza2\source\repos\SIstemas de menus\SIstemas de menus\bin\Debug\VisualizadorDeImagens.exe
+C:\Users\Davi.rsouza2\source\repos\SIstemas de menus\SIstemas de menus\bin\Debug\Calculo de media.pdb
+C:\Users\Davi.rsouza2\source\repos\SIstemas de menus\SIstemas de menus\bin\Debug\Calculo de media.exe.config
+C:\Users\Davi.rsouza2\source\repos\SIstemas de menus\SIstemas de menus\bin\Debug\Lista de Nomes.pdb
+C:\Users\Davi.rsouza2\source\repos\SIstemas de menus\SIstemas de menus\bin\Debug\Lista de Nomes.exe.config
+C:\Users\Davi.rsouza2\source\repos\SIstemas de menus\SIstemas de menus\bin\Debug\MoviTeclas.pdb
+C:\Users\Davi.rsouza2\source\repos\SIstemas de menus\SIstemas de menus\bin\Debug\MoviTeclas.exe.config
+C:\Users\Davi.rsouza2\source\repos\SIstemas de menus\SIstemas de menus\bin\Debug\ordenar nomes.pdb
+C:\Users\Davi.rsouza2\source\repos\SIstemas de menus\SIstemas de menus\bin\Debug\ordenar nomes.exe.config
+C:\Users\Davi.rsouza2\source\repos\SIstemas de menus\SIstemas de menus\bin\Debug\Relogios.pdb
+C:\Users\Davi.rsouza2\source\repos\SIstemas de menus\SIstemas de menus\bin\Debug\Relogios.exe.config
+C:\Users\Davi.rsouza2\source\repos\SIstemas de menus\SIstemas de menus\bin\Debug\VisualizadorDeImagens.pdb
+C:\Users\Davi.rsouza2\source\repos\SIstemas de menus\SIstemas de menus\bin\Debug\VisualizadorDeImagens.exe.config
+C:\Users\Davi.rsouza2\source\repos\SIstemas de menus\SIstemas de menus\obj\Debug\SIstemas de menus.csproj.CopyComplete

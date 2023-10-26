@@ -1,0 +1,11 @@
+C:\Users\Davi.rsouza2\source\repos\MoviTeclas\MoviTeclas\obj\Debug\MoviTeclas.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\MoviTeclas\MoviTeclas\obj\Debug\MoviTeclas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\MoviTeclas\MoviTeclas\obj\Debug\MoviTeclas.FrmMoviTeclas.resources
+C:\Users\Davi.rsouza2\source\repos\MoviTeclas\MoviTeclas\obj\Debug\MoviTeclas.Properties.Resources.resources
+C:\Users\Davi.rsouza2\source\repos\MoviTeclas\MoviTeclas\obj\Debug\MoviTeclas.csproj.GenerateResource.cache
+C:\Users\Davi.rsouza2\source\repos\MoviTeclas\MoviTeclas\obj\Debug\MoviTeclas.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\MoviTeclas\MoviTeclas\bin\Debug\MoviTeclas.exe.config
+C:\Users\Davi.rsouza2\source\repos\MoviTeclas\MoviTeclas\bin\Debug\MoviTeclas.exe
+C:\Users\Davi.rsouza2\source\repos\MoviTeclas\MoviTeclas\bin\Debug\MoviTeclas.pdb
+C:\Users\Davi.rsouza2\source\repos\MoviTeclas\MoviTeclas\obj\Debug\MoviTeclas.exe
+C:\Users\Davi.rsouza2\source\repos\MoviTeclas\MoviTeclas\obj\Debug\MoviTeclas.pdb

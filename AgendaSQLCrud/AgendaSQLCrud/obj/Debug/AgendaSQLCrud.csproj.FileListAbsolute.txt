@@ -1,0 +1,11 @@
+C:\Users\Davi.rsouza2\source\repos\AgendaSQLCrud\AgendaSQLCrud\bin\Debug\AgendaSQLCrud.exe.config
+C:\Users\Davi.rsouza2\source\repos\AgendaSQLCrud\AgendaSQLCrud\bin\Debug\AgendaSQLCrud.exe
+C:\Users\Davi.rsouza2\source\repos\AgendaSQLCrud\AgendaSQLCrud\bin\Debug\AgendaSQLCrud.pdb
+C:\Users\Davi.rsouza2\source\repos\AgendaSQLCrud\AgendaSQLCrud\obj\Debug\AgendaSQLCrud.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\AgendaSQLCrud\AgendaSQLCrud\obj\Debug\AgendaSQLCrud.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\AgendaSQLCrud\AgendaSQLCrud\obj\Debug\AgendaSQLCrud.frmCRUD.resources
+C:\Users\Davi.rsouza2\source\repos\AgendaSQLCrud\AgendaSQLCrud\obj\Debug\AgendaSQLCrud.Properties.Resources.resources
+C:\Users\Davi.rsouza2\source\repos\AgendaSQLCrud\AgendaSQLCrud\obj\Debug\AgendaSQLCrud.csproj.GenerateResource.cache
+C:\Users\Davi.rsouza2\source\repos\AgendaSQLCrud\AgendaSQLCrud\obj\Debug\AgendaSQLCrud.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\AgendaSQLCrud\AgendaSQLCrud\obj\Debug\AgendaSQLCrud.exe
+C:\Users\Davi.rsouza2\source\repos\AgendaSQLCrud\AgendaSQLCrud\obj\Debug\AgendaSQLCrud.pdb

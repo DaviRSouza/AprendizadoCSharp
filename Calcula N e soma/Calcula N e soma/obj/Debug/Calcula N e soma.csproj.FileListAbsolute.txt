@@ -1,0 +1,8 @@
+C:\Users\Davi.rsouza2\source\repos\Calcula N e soma\Calcula N e soma\bin\Debug\Calcula N e soma.exe.config
+C:\Users\Davi.rsouza2\source\repos\Calcula N e soma\Calcula N e soma\bin\Debug\Calcula N e soma.exe
+C:\Users\Davi.rsouza2\source\repos\Calcula N e soma\Calcula N e soma\bin\Debug\Calcula N e soma.pdb
+C:\Users\Davi.rsouza2\source\repos\Calcula N e soma\Calcula N e soma\obj\Debug\Calcula N e soma.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\Calcula N e soma\Calcula N e soma\obj\Debug\Calcula N e soma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\Calcula N e soma\Calcula N e soma\obj\Debug\Calcula N e soma.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\Calcula N e soma\Calcula N e soma\obj\Debug\Calcula N e soma.exe
+C:\Users\Davi.rsouza2\source\repos\Calcula N e soma\Calcula N e soma\obj\Debug\Calcula N e soma.pdb

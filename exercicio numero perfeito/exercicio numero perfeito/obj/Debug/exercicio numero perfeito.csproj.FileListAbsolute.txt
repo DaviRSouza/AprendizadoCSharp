@@ -1,0 +1,8 @@
+C:\Users\Davi.rsouza2\source\repos\exercicio numero perfeito\exercicio numero perfeito\bin\Debug\exercicio numero perfeito.exe.config
+C:\Users\Davi.rsouza2\source\repos\exercicio numero perfeito\exercicio numero perfeito\bin\Debug\exercicio numero perfeito.exe
+C:\Users\Davi.rsouza2\source\repos\exercicio numero perfeito\exercicio numero perfeito\bin\Debug\exercicio numero perfeito.pdb
+C:\Users\Davi.rsouza2\source\repos\exercicio numero perfeito\exercicio numero perfeito\obj\Debug\exercicio numero perfeito.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\exercicio numero perfeito\exercicio numero perfeito\obj\Debug\exercicio numero perfeito.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\exercicio numero perfeito\exercicio numero perfeito\obj\Debug\exercicio numero perfeito.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\exercicio numero perfeito\exercicio numero perfeito\obj\Debug\exercicio numero perfeito.exe
+C:\Users\Davi.rsouza2\source\repos\exercicio numero perfeito\exercicio numero perfeito\obj\Debug\exercicio numero perfeito.pdb

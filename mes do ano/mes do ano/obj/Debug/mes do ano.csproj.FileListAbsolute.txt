@@ -1,0 +1,8 @@
+C:\Users\Davi.rsouza2\source\repos\mes do ano\mes do ano\obj\Debug\mes do ano.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\mes do ano\mes do ano\obj\Debug\mes do ano.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\mes do ano\mes do ano\obj\Debug\mes do ano.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\mes do ano\mes do ano\bin\Debug\mes do ano.exe.config
+C:\Users\Davi.rsouza2\source\repos\mes do ano\mes do ano\bin\Debug\mes do ano.exe
+C:\Users\Davi.rsouza2\source\repos\mes do ano\mes do ano\bin\Debug\mes do ano.pdb
+C:\Users\Davi.rsouza2\source\repos\mes do ano\mes do ano\obj\Debug\mes do ano.exe
+C:\Users\Davi.rsouza2\source\repos\mes do ano\mes do ano\obj\Debug\mes do ano.pdb

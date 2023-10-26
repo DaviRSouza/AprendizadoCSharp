@@ -1,0 +1,11 @@
+C:\Users\Davi.rsouza2\source\repos\Lista de Nomes\Lista de Nomes\bin\Debug\Lista de Nomes.exe.config
+C:\Users\Davi.rsouza2\source\repos\Lista de Nomes\Lista de Nomes\bin\Debug\Lista de Nomes.exe
+C:\Users\Davi.rsouza2\source\repos\Lista de Nomes\Lista de Nomes\bin\Debug\Lista de Nomes.pdb
+C:\Users\Davi.rsouza2\source\repos\Lista de Nomes\Lista de Nomes\obj\Debug\Lista de Nomes.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\Lista de Nomes\Lista de Nomes\obj\Debug\Lista de Nomes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\Lista de Nomes\Lista de Nomes\obj\Debug\Lista_de_Nomes.frmListaDeNomes.resources
+C:\Users\Davi.rsouza2\source\repos\Lista de Nomes\Lista de Nomes\obj\Debug\Lista_de_Nomes.Properties.Resources.resources
+C:\Users\Davi.rsouza2\source\repos\Lista de Nomes\Lista de Nomes\obj\Debug\Lista de Nomes.csproj.GenerateResource.cache
+C:\Users\Davi.rsouza2\source\repos\Lista de Nomes\Lista de Nomes\obj\Debug\Lista de Nomes.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\Lista de Nomes\Lista de Nomes\obj\Debug\Lista de Nomes.exe
+C:\Users\Davi.rsouza2\source\repos\Lista de Nomes\Lista de Nomes\obj\Debug\Lista de Nomes.pdb

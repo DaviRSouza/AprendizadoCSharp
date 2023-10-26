@@ -1,0 +1,8 @@
+C:\Users\Davi.rsouza2\source\repos\farenheit e celsius\farenheit e celsius\bin\Debug\farenheit e celsius.exe.config
+C:\Users\Davi.rsouza2\source\repos\farenheit e celsius\farenheit e celsius\bin\Debug\farenheit e celsius.exe
+C:\Users\Davi.rsouza2\source\repos\farenheit e celsius\farenheit e celsius\bin\Debug\farenheit e celsius.pdb
+C:\Users\Davi.rsouza2\source\repos\farenheit e celsius\farenheit e celsius\obj\Debug\farenheit e celsius.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\farenheit e celsius\farenheit e celsius\obj\Debug\farenheit e celsius.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\farenheit e celsius\farenheit e celsius\obj\Debug\farenheit e celsius.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\farenheit e celsius\farenheit e celsius\obj\Debug\farenheit e celsius.exe
+C:\Users\Davi.rsouza2\source\repos\farenheit e celsius\farenheit e celsius\obj\Debug\farenheit e celsius.pdb

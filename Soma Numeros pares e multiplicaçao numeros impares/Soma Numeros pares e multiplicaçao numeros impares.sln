@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soma Numeros pares e multiplicaçao numeros impares", "Soma Numeros pares e multiplicaçao numeros impares\Soma Numeros pares e multiplicaçao numeros impares.csproj", "{C855D85D-1329-42E5-972F-CB095A6F7C71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C855D85D-1329-42E5-972F-CB095A6F7C71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C855D85D-1329-42E5-972F-CB095A6F7C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C855D85D-1329-42E5-972F-CB095A6F7C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C855D85D-1329-42E5-972F-CB095A6F7C71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37712CE9-1411-4E99-8E9B-E0BFAAF55C6C}
+	EndGlobalSection
+EndGlobal

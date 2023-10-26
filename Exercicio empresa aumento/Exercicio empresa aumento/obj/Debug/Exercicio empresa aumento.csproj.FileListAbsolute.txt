@@ -1,0 +1,8 @@
+C:\Users\Davi.rsouza2\source\repos\Exercicio empresa aumento\Exercicio empresa aumento\bin\Debug\Exercicio empresa aumento.exe.config
+C:\Users\Davi.rsouza2\source\repos\Exercicio empresa aumento\Exercicio empresa aumento\bin\Debug\Exercicio empresa aumento.exe
+C:\Users\Davi.rsouza2\source\repos\Exercicio empresa aumento\Exercicio empresa aumento\bin\Debug\Exercicio empresa aumento.pdb
+C:\Users\Davi.rsouza2\source\repos\Exercicio empresa aumento\Exercicio empresa aumento\obj\Debug\Exercicio empresa aumento.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\Exercicio empresa aumento\Exercicio empresa aumento\obj\Debug\Exercicio empresa aumento.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\Exercicio empresa aumento\Exercicio empresa aumento\obj\Debug\Exercicio empresa aumento.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\Exercicio empresa aumento\Exercicio empresa aumento\obj\Debug\Exercicio empresa aumento.exe
+C:\Users\Davi.rsouza2\source\repos\Exercicio empresa aumento\Exercicio empresa aumento\obj\Debug\Exercicio empresa aumento.pdb

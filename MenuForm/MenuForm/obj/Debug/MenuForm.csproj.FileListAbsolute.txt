@@ -1,0 +1,14 @@
+C:\Users\Davi.rsouza2\source\repos\MenuForm\MenuForm\bin\Debug\MenuForm.exe.config
+C:\Users\Davi.rsouza2\source\repos\MenuForm\MenuForm\bin\Debug\MenuForm.exe
+C:\Users\Davi.rsouza2\source\repos\MenuForm\MenuForm\bin\Debug\MenuForm.pdb
+C:\Users\Davi.rsouza2\source\repos\MenuForm\MenuForm\obj\Debug\MenuForm.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\MenuForm\MenuForm\obj\Debug\MenuForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\MenuForm\MenuForm\obj\Debug\MenuForm.Form1.resources
+C:\Users\Davi.rsouza2\source\repos\MenuForm\MenuForm\obj\Debug\MenuForm.Formularios.frmOpcao1.resources
+C:\Users\Davi.rsouza2\source\repos\MenuForm\MenuForm\obj\Debug\MenuForm.Properties.Resources.resources
+C:\Users\Davi.rsouza2\source\repos\MenuForm\MenuForm\obj\Debug\MenuForm.csproj.GenerateResource.cache
+C:\Users\Davi.rsouza2\source\repos\MenuForm\MenuForm\obj\Debug\MenuForm.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\MenuForm\MenuForm\obj\Debug\MenuForm.exe
+C:\Users\Davi.rsouza2\source\repos\MenuForm\MenuForm\obj\Debug\MenuForm.pdb
+C:\Users\Davi.rsouza2\source\repos\MenuForm\MenuForm\obj\Debug\MenuForm.Formularios.frmOpcao2.resources
+C:\Users\Davi.rsouza2\source\repos\MenuForm\MenuForm\obj\Debug\MenuForm.Acesso.resources

@@ -1,0 +1,8 @@
+C:\Users\Davi.rsouza2\source\repos\exercico numero divisiveis\exercico numero divisiveis\bin\Debug\exercico numero divisiveis.exe.config
+C:\Users\Davi.rsouza2\source\repos\exercico numero divisiveis\exercico numero divisiveis\bin\Debug\exercico numero divisiveis.exe
+C:\Users\Davi.rsouza2\source\repos\exercico numero divisiveis\exercico numero divisiveis\bin\Debug\exercico numero divisiveis.pdb
+C:\Users\Davi.rsouza2\source\repos\exercico numero divisiveis\exercico numero divisiveis\obj\Debug\exercico numero divisiveis.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\exercico numero divisiveis\exercico numero divisiveis\obj\Debug\exercico numero divisiveis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\exercico numero divisiveis\exercico numero divisiveis\obj\Debug\exercico numero divisiveis.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\exercico numero divisiveis\exercico numero divisiveis\obj\Debug\exercico numero divisiveis.exe
+C:\Users\Davi.rsouza2\source\repos\exercico numero divisiveis\exercico numero divisiveis\obj\Debug\exercico numero divisiveis.pdb

@@ -1,0 +1,8 @@
+C:\Users\Davi.rsouza2\source\repos\Varios Numeros - pares e ou impares\Varios Numeros - pares e ou impares\bin\Debug\Varios Numeros - pares e ou impares.exe.config
+C:\Users\Davi.rsouza2\source\repos\Varios Numeros - pares e ou impares\Varios Numeros - pares e ou impares\bin\Debug\Varios Numeros - pares e ou impares.exe
+C:\Users\Davi.rsouza2\source\repos\Varios Numeros - pares e ou impares\Varios Numeros - pares e ou impares\bin\Debug\Varios Numeros - pares e ou impares.pdb
+C:\Users\Davi.rsouza2\source\repos\Varios Numeros - pares e ou impares\Varios Numeros - pares e ou impares\obj\Debug\Varios Numeros - pares e ou impares.csproj.AssemblyReference.cache
+C:\Users\Davi.rsouza2\source\repos\Varios Numeros - pares e ou impares\Varios Numeros - pares e ou impares\obj\Debug\Varios Numeros - pares e ou impares.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi.rsouza2\source\repos\Varios Numeros - pares e ou impares\Varios Numeros - pares e ou impares\obj\Debug\Varios Numeros - pares e ou impares.csproj.CoreCompileInputs.cache
+C:\Users\Davi.rsouza2\source\repos\Varios Numeros - pares e ou impares\Varios Numeros - pares e ou impares\obj\Debug\Varios Numeros - pares e ou impares.exe
+C:\Users\Davi.rsouza2\source\repos\Varios Numeros - pares e ou impares\Varios Numeros - pares e ou impares\obj\Debug\Varios Numeros - pares e ou impares.pdb
